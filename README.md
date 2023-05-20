@@ -1,2 +1,2 @@
 # Venezuela_life_satisfaction
-Predicting Venezuela life satisfaction with different machine learning models.
+This Task was given in machine learning course which aims to predict Venezuela life satisfaction with different machine learning models.
